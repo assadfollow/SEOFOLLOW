@@ -412,7 +412,7 @@ var VPData = {"__":{"couldnt_retrieve_vp":"Couldn't retrieve Visual Portfolio ID
 <!-- Google Tag Manager for WordPress by gtm4wp.com -->
 <!-- GTM Container placement set to automatic -->
 <script data-cfasync="false" data-pagespeed-no-defer type="text/javascript">
-	var dataLayer_content = {"visitorIP":"93.112.133.97","pageTitle":"انشئ متجر الكتروني وابدأ رحلتك مع التجارة الالكترونية - زد","pagePostType":"frontpage","pagePostType2":"single-page","pagePostAuthor":"Ciso","pagePostDate":"22 مايو، 2022","pagePostDateYear":"2022","pagePostDateMonth":"05","pagePostDateDay":"22","pagePostDateDayName":"الأحد","pagePostDateHour":"08","pagePostDateMinute":"41","pagePostDateIso":"2022-05-22T08:41:38+03:00","pagePostDateUnix":1653208898,"browserName":"Chrome","browserVersion":"111.0.0.0","browserEngineName":"Blink","browserEngineVersion":"","osName":"Windows","osVersion":"10.0","deviceType":"desktop","deviceManufacturer":"","deviceModel":"","postCountOnPage":1,"postCountTotal":1,"postID":1699,"postFormat":"standard","geoCloudflareCountryCode":"SA","geoCountryCode":"(no geo data available)","geoCountryName":"(no geo data available)","geoRegionCode":"(no geo data available)","geoRegionName":"(no geo data available)","geoCity":"(no geo data available)","geoZipcode":"(no geo data available)","geoLatitude":"(no geo data available)","geoLongitude":"(no geo data available)","geoFullGeoData":{"success":false,"error":{"code":101,"type":"missing_access_key","info":"You have not supplied an API Access Key. [Required format: access_key=YOUR_ACCESS_KEY]"}}};
+	var dataLayer_content = {"visitorIP":"93.112.133.97","pageTitle":"بوابتك لنجاح متجرك الإلكتروني - سيو فولو","pagePostType":"frontpage","pagePostType2":"single-page","pagePostAuthor":"Ciso","pagePostDate":"22 مايو، 2022","pagePostDateYear":"2022","pagePostDateMonth":"05","pagePostDateDay":"22","pagePostDateDayName":"الأحد","pagePostDateHour":"08","pagePostDateMinute":"41","pagePostDateIso":"2022-05-22T08:41:38+03:00","pagePostDateUnix":1653208898,"browserName":"Chrome","browserVersion":"111.0.0.0","browserEngineName":"Blink","browserEngineVersion":"","osName":"Windows","osVersion":"10.0","deviceType":"desktop","deviceManufacturer":"","deviceModel":"","postCountOnPage":1,"postCountTotal":1,"postID":1699,"postFormat":"standard","geoCloudflareCountryCode":"SA","geoCountryCode":"(no geo data available)","geoCountryName":"(no geo data available)","geoRegionCode":"(no geo data available)","geoRegionName":"(no geo data available)","geoCity":"(no geo data available)","geoZipcode":"(no geo data available)","geoLatitude":"(no geo data available)","geoLongitude":"(no geo data available)","geoFullGeoData":{"success":false,"error":{"code":101,"type":"missing_access_key","info":"You have not supplied an API Access Key. [Required format: access_key=YOUR_ACCESS_KEY]"}}};
 	dataLayer.push( dataLayer_content );
 </script>
 <script data-cfasync="false">
@@ -462,10 +462,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             );
         </script>
         			<style id="wpsp-style-frontend"></style>
-			<link rel="icon" href="https://zid.sa/wp-content/uploads/2022/05/zid-favicon2023-150x150.png" sizes="32x32" />
-<link rel="icon" href="https://zid.sa/wp-content/uploads/2022/05/zid-favicon2023-300x300.png" sizes="192x192" />
-<link rel="apple-touch-icon" href="https://zid.sa/wp-content/uploads/2022/05/zid-favicon2023-300x300.png" />
-<meta name="msapplication-TileImage" content="https://zid.sa/wp-content/uploads/2022/05/zid-favicon2023-300x300.png" />
+			<link rel="icon" href="https://res.cloudinary.com/dhhn08v44/image/upload/v1674367692/2%D9%81%D8%A7%D9%81%D9%8A%D9%83%D9%88%D9%86_z8ceer.png" sizes="32x32" />
+<link rel="icon" href="https://res.cloudinary.com/dhhn08v44/image/upload/v1674367692/2%D9%81%D8%A7%D9%81%D9%8A%D9%83%D9%88%D9%86_z8ceer.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://res.cloudinary.com/dhhn08v44/image/upload/v1674367692/2%D9%81%D8%A7%D9%81%D9%8A%D9%83%D9%88%D9%86_z8ceer.png" />
+<meta name="msapplication-TileImage" content="https://res.cloudinary.com/dhhn08v44/image/upload/v1674367692/2%D9%81%D8%A7%D9%81%D9%8A%D9%83%D9%88%D9%86_z8ceer.png" />
 	
 				<link rel="stylesheet" href="https://zid.sa/wp-content/themes/hello-elementor/style-custom.css?ver=96638">
 	<script>
