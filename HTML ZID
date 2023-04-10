@@ -1108,7 +1108,7 @@ text-fill-color: transparent;
 						<div class="elementor-element elementor-element-f76dd93 elementor-align-right animated-slow button-effect elementor-widget elementor-widget-button" data-id="f76dd93" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;none&quot;}" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="https://web.zid.sa/register/?_ga=2.155073656.1174663681.1676456784-790874070.1571427295" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+			<a href="https://api.whatsapp.com/send?phone=905528228145" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 						<span class="elementor-button-content-wrapper">
 							<span class="elementor-button-icon elementor-align-icon-left">
 				<i aria-hidden="true" class="fas fa-arrow-left"></i>			</span>
@@ -1821,11 +1821,11 @@ text-fill-color: transparent;
 						<div class="elementor-element elementor-element-ccb5d38 elementor-align-center animated-slow button-effect elementor-widget elementor-widget-button" data-id="ccb5d38" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;none&quot;}" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="https://web.zid.sa/register/?_ga=2.155073656.1174663681.1676456784-790874070.1571427295" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+			<a href="https://api.whatsapp.com/send?phone=905528228145" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 						<span class="elementor-button-content-wrapper">
 							<span class="elementor-button-icon elementor-align-icon-left">
 				<i aria-hidden="true" class="fas fa-arrow-left"></i>			</span>
-						<span class="elementor-button-text">أطلق متجرك مجاناً</span>
+						<span class="elementor-button-text">تواصل معنا الآن</span>
 		</span>
 					</a>
 		</div>
@@ -3083,11 +3083,11 @@ text-fill-color: transparent;
 				<div class="elementor-element elementor-element-12a4c1c4 elementor-align-center elementor-invisible elementor-widget elementor-widget-button" data-id="12a4c1c4" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="https://web.zid.sa/register/?_ga=2.155073656.1174663681.1676456784-790874070.1571427295" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+			<a href="https://api.whatsapp.com/send?phone=905528228145" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 						<span class="elementor-button-content-wrapper">
 							<span class="elementor-button-icon elementor-align-icon-left">
 				<i aria-hidden="true" class="fas fa-arrow-left"></i>			</span>
-						<span class="elementor-button-text">أطلق متجرك مجاناً</span>
+						<span class="elementor-button-text">تواصل معنا الآن</span>
 		</span>
 					</a>
 		</div>
