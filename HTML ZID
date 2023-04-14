@@ -1665,47 +1665,7 @@ text-fill-color: transparent;
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-ddb2aed" data-id="ddb2aed" data-element_type="column">
 			<div class="elementor-column-wrap elementor-element-populated">
 							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-6efd327 elementor-widget elementor-widget-heading" data-id="6efd327" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">أرقام واضحة لتجزئة واثقة
-</h2>		</div>
-				</div>
-				<div class="elementor-element elementor-element-067a3bf elementor-widget elementor-widget-heading" data-id="067a3bf" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">متجر مستعد دائماً للنمو
-</h2>		</div>
-				</div>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-5d3cced elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5d3cced" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-							<div class="elementor-row">
-					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-ce94bc5" data-id="ce94bc5" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-bc9cfff elementor-tabs-view-vertical home-tabs elementor-invisible elementor-widget elementor-widget-tabs" data-id="bc9cfff" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="tabs.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-tabs">
-			<div class="elementor-tabs-wrapper" role="tablist" >
-									<div id="elementor-tab-title-1971" class="elementor-tab-title elementor-tab-desktop-title" aria-selected="true" data-tab="1" role="tab" tabindex="0" aria-controls="elementor-tab-content-1971" aria-expanded="false"><a href=""><h5>حوّل السلال المتروكة إلى طلبات</h5><h6>أعد إستهداف عملاء السلّات المتروكة برسائل تذكيرية لتحويل السلال إلى طلبات مكتملة</h6></a></div>
-									<div id="elementor-tab-title-1972" class="elementor-tab-title elementor-tab-desktop-title" aria-selected="false" data-tab="2" role="tab" tabindex="-1" aria-controls="elementor-tab-content-1972" aria-expanded="false"><a href=""><h5>سوّق لمتجرك بعروض مخصصة</h5><h6>قدّم عروض مخصصة لزوار متجرك لتحفيزهم على إتمام وتكرار عملية الشراء</h6></a></div>
-									<div id="elementor-tab-title-1973" class="elementor-tab-title elementor-tab-desktop-title" aria-selected="false" data-tab="3" role="tab" tabindex="-1" aria-controls="elementor-tab-content-1973" aria-expanded="false"><a href=""><h5>حلّل أداء تجارتك بوضوح</h5><h6>تعرّف على كل تفاصيل تجارتك عبر لوحة تحليلات زد المتقدمة</h6></a></div>
-							</div>
-			<div class="elementor-tabs-content-wrapper" role="tablist" aria-orientation="vertical">
-									<div class="elementor-tab-title elementor-tab-mobile-title" aria-selected="true" data-tab="1" role="tab" tabindex="0" aria-controls="elementor-tab-content-1971" aria-expanded="false"><h5>حوّل السلال المتروكة إلى طلبات</h5><h6>أعد إستهداف عملاء السلّات المتروكة برسائل تذكيرية لتحويل السلال إلى طلبات مكتملة</h6></div>
-					<div id="elementor-tab-content-1971" class="elementor-tab-content elementor-clearfix" data-tab="1" role="tabpanel" aria-labelledby="elementor-tab-title-1971" tabindex="0" hidden="false"><img src="https://zid.sa/wp-content/uploads/2022/05/home-widget1-1024x853.png" alt="" class="alignnone size-large wp-image-9386" /></div>
-									<div class="elementor-tab-title elementor-tab-mobile-title" aria-selected="false" data-tab="2" role="tab" tabindex="-1" aria-controls="elementor-tab-content-1972" aria-expanded="false"><h5>سوّق لمتجرك بعروض مخصصة</h5><h6>قدّم عروض مخصصة لزوار متجرك لتحفيزهم على إتمام وتكرار عملية الشراء</h6></div>
-					<div id="elementor-tab-content-1972" class="elementor-tab-content elementor-clearfix" data-tab="2" role="tabpanel" aria-labelledby="elementor-tab-title-1972" tabindex="0" hidden="hidden"><img src="https://zid.sa/wp-content/uploads/2022/05/home-widget2-1024x876.png" alt="" class="alignnone size-large wp-image-9387" /></div>
-									<div class="elementor-tab-title elementor-tab-mobile-title" aria-selected="false" data-tab="3" role="tab" tabindex="-1" aria-controls="elementor-tab-content-1973" aria-expanded="false"><h5>حلّل أداء تجارتك بوضوح</h5><h6>تعرّف على كل تفاصيل تجارتك عبر لوحة تحليلات زد المتقدمة</h6></div>
-					<div id="elementor-tab-content-1973" class="elementor-tab-content elementor-clearfix" data-tab="3" role="tabpanel" aria-labelledby="elementor-tab-title-1973" tabindex="0" hidden="hidden"><img src="https://zid.sa/wp-content/uploads/2022/05/home-widget3-1024x876.png" alt="" class="alignnone size-large wp-image-9388" /></div>
-							</div>
-		</div>
-				</div>
-				</div>
-						</div>
-					</div>
-		</div>
-								</div>
-					</div>
-		</section>
+
 				<section class="elementor-section elementor-inner-section elementor-element elementor-element-4846b0a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4846b0a" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 							<div class="elementor-row">
