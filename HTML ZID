@@ -465,7 +465,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <link rel="apple-touch-icon" href="https://res.cloudinary.com/dhhn08v44/image/upload/v1674367692/2%D9%81%D8%A7%D9%81%D9%8A%D9%83%D9%88%D9%86_z8ceer.png" />
 <meta name="msapplication-TileImage" content="https://res.cloudinary.com/dhhn08v44/image/upload/v1674367692/2%D9%81%D8%A7%D9%81%D9%8A%D9%83%D9%88%D9%86_z8ceer.png" />
 	
-				<link rel="stylesheet" href="https://zid.sa/wp-content/themes/hello-elementor/style-custom.css?ver=96638">
+				<link rel="stylesheet" href="https://res.cloudinary.com/dhhn08v44/raw/upload/v1681528397/style-custom_pogusm.css">
 	<script>
 jQuery( document ).ready(function( $ ){
     $(".elementor-tab-title a").replaceWith(function() { 
@@ -1938,7 +1938,7 @@ text-fill-color: transparent;
 				<div class="elementor-element elementor-element-d955f21 logo elementor-widget elementor-widget-image" data-id="d955f21" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="200" height="75" src="https://zid.sa/wp-content/uploads/2023/02/logo-palma.png" class="attachment-full size-full wp-image-10444" alt="" loading="lazy" />														</div>
+												<img width="200" height="75" src="https://res.cloudinary.com/dhhn08v44/image/upload/v1681528319/review_n1wc8c.png" class="attachment-full size-full wp-image-10444" alt="" loading="lazy" />														</div>
 						</div>
 				</div>
 						</div>
