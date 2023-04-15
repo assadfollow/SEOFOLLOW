@@ -1146,55 +1146,116 @@ text-fill-color: transparent;
 								</div>
 					</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-7a0c8e5 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7a0c8e5" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-						<div class="elementor-container elementor-column-gap-default">
-							<div class="elementor-row">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-b124eb7" data-id="b124eb7" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-282d4b2 txt-grad3 elementor-widget elementor-widget-heading" data-id="282d4b2" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">باقات التسويق المتكامل</h2>		</div>
-				</div>
-				<div class="elementor-element elementor-element-5a10ea3 elementor-widget elementor-widget-heading" data-id="5a10ea3" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">تجارتك تبدأ وتكبر وتتوسع</h2>		</div>
-				</div>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-e647699 elementor-section-full_width elementor-hidden-tablet elementor-hidden-mobile elementor-section-height-default elementor-section-height-default" data-id="e647699" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+		
+		<section class="elementor-section elementor-top-section elementor-element elementor-element-bba06be elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="bba06be" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 							<div class="elementor-background-overlay"></div>
 							<div class="elementor-container elementor-column-gap-default">
 							<div class="elementor-row">
-					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-69a893a" data-id="69a893a" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-b908acd" data-id="b908acd" data-element_type="column">
 			<div class="elementor-column-wrap elementor-element-populated">
-					<div class="elementor-background-overlay"></div>
 							<div class="elementor-widget-wrap">
-						<section class="elementor-section elementor-inner-section elementor-element elementor-element-ac9bee4 elementor-section-full_width elementor-section-height-min-height elementor-section-height-default" data-id="ac9bee4" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-element elementor-element-03d8814 txt-grad1 elementor-widget elementor-widget-heading" data-id="03d8814" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">معك خطوة بخطوة</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-da0ee47 elementor-widget elementor-widget-heading" data-id="da0ee47" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">نجاحك من نجاحنا</h2>		</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-bc5e5c5 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="bc5e5c5" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
 							<div class="elementor-row">
-					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-61f3236" data-id="61f3236" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-a54a78e" data-id="a54a78e" data-element_type="column">
 			<div class="elementor-column-wrap elementor-element-populated">
 							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-fad5317 elementor-vertical-align-middle elementor-position-top elementor-widget elementor-widget-image-box" data-id="fad5317" data-element_type="widget" data-widget_type="image-box.default">
+						<div class="elementor-element elementor-element-c6914fe elementor-position-top glass-effect1 elementor-view-default elementor-mobile-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box animated fadeIn" data-id="c6914fe" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="icon-box.default">
 				<div class="elementor-widget-container">
-			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="150" height="124" src="https://res.cloudinary.com/dhhn08v44/image/upload/v1681086778/345355_btlfu1.png" class="attachment-thumbnail size-thumbnail wp-image-8122" alt="" loading="lazy" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">تحسين محركات البحث</h3><p class="elementor-image-box-description">تصدر نتائج البحث.
-العمل على رفع ترتيب المتاجر الإلكترونية في نتائج البحث المجانية للحصول على مبيعات بشكل دائم.</p></div></div>		</div>
+					<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-icon">
+				<span class="elementor-icon elementor-animation-">
+				<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" fill="none"><path d="M34 42V38C34 35.8783 33.1571 33.8434 31.6569 32.3431C30.1566 30.8429 28.1217 30 26 30H10C7.87827 30 5.84344 30.8429 4.34315 32.3431C2.84285 33.8434 2 35.8783 2 38V42" stroke="#7462F4" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path><path d="M18 22C22.4183 22 26 18.4183 26 14C26 9.58172 22.4183 6 18 6C13.5817 6 10 9.58172 10 14C10 18.4183 13.5817 22 18 22Z" stroke="#7462F4" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path><path d="M46 41.9998V37.9998C45.9987 36.2272 45.4087 34.5053 44.3227 33.1044C43.2368 31.7035 41.7163 30.7029 40 30.2598" stroke="#7462F4" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path><path d="M32 6.25977C33.7208 6.70037 35.2461 7.70117 36.3353 9.10439C37.4245 10.5076 38.0157 12.2334 38.0157 14.0098C38.0157 15.7861 37.4245 17.5119 36.3353 18.9151C35.2461 20.3184 33.7208 21.3192 32 21.7598" stroke="#7462F4" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path></svg>				</span>
+			</div>
+						<div class="elementor-icon-box-content">
+				<h3 class="elementor-icon-box-title">
+					<span>
+						مجتمعات التجار					</span>
+				</h3>
+									<p class="elementor-icon-box-description">
+						مجموعات يتبادل فيها التجار المعرفة والخبرات بالانضمام لجلسات إلكترونية ولقاءات حية، والاستماع لنصائح التجار في مختلف قطاعات التجارة					</p>
+							</div>
+		</div>
 				</div>
-				<div class="elementor-element elementor-element-297c796 elementor-absolute elementor-widget elementor-widget-image" data-id="297c796" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-								<div class="elementor-image">
-												<img width="768" height="718" src="https://res.cloudinary.com/dhhn08v44/image/upload/v1681170365/seo_rx2sbt.png" class="attachment-medium_large size-medium_large wp-image-10073" alt="" loading="lazy" />														</div>
+				</div>
 						</div>
-				</div>
-				<div class="elementor-element elementor-element-4655bf9 elementor-align-right elementor-invisible elementor-widget elementor-widget-button" data-id="4655bf9" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="button.default">
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-b447739" data-id="b447739" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-de45b9d elementor-position-top glass-effect2 elementor-view-default elementor-mobile-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box animated fadeIn" data-id="de45b9d" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="icon-box.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-button-wrapper">
-			<a href="https://seofollow.store/" class="elementor-button-link elementor-button elementor-size-lg" role="button">
-						<span class="elementor-button-content-wrapper">
-							<span class="elementor-button-icon elementor-align-icon-left">
-				<svg xmlns="http://www.w3.org/2000/svg" width="16" height="17" viewBox="0 0 16 17" fill="none"><path d="M11.3333 7.83338H6.2733L8.4733 5.64004C8.59884 5.51451 8.66937 5.34424 8.66937 5.16671C8.66937 4.98917 8.59884 4.81891 8.4733 4.69338C8.34777 4.56784 8.17751 4.49731 7.99997 4.49731C7.82244 4.49731 7.65217 4.56784 7.52664 4.69338L4.1933 8.02671C4.13261 8.09011 4.08503 8.16487 4.0533 8.24671C3.98663 8.40902 3.98663 8.59107 4.0533 8.75338C4.08503 8.83521 4.13261 8.90997 4.1933 8.97338L7.52664 12.3067C7.58861 12.3692 7.66235 12.4188 7.74359 12.4526C7.82483 12.4865 7.91196 12.5039 7.99997 12.5039C8.08798 12.5039 8.17512 12.4865 8.25636 12.4526C8.3376 12.4188 8.41133 12.3692 8.4733 12.3067C8.53579 12.2447 8.58539 12.171 8.61923 12.0898C8.65308 12.0085 8.6705 11.9214 8.6705 11.8334C8.6705 11.7454 8.65308 11.6582 8.61923 11.577C8.58539 11.4958 8.53579 11.422 8.4733 11.36L6.2733 9.16671H11.3333C11.5101 9.16671 11.6797 9.09647 11.8047 8.97145C11.9297 8.84642 12 8.67685 12 8.50004C12 8.32323 11.9297 8.15366 11.8047 8.02864C11.6797 7.90361 11.5101 7.83338 11.3333 7.83338Z" fill="white"></path></svg>			</span>
-						<span class="elementor-button-text">السعر 370 ريال سعودي</span>
-		</span>
-					</a>
+					<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-icon">
+				<span class="elementor-icon elementor-animation-">
+				<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" fill="none"><path d="M24 44C35.0457 44 44 35.0457 44 24C44 12.9543 35.0457 4 24 4C12.9543 4 4 12.9543 4 24C4 35.0457 12.9543 44 24 44Z" stroke="#7462F4" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path><path d="M24 12V24L32 28" stroke="#7462F4" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path></svg>				</span>
+			</div>
+						<div class="elementor-icon-box-content">
+				<h3 class="elementor-icon-box-title">
+					<span>
+						الساعات الاستشارية					</span>
+				</h3>
+									<p class="elementor-icon-box-description">
+						ساعات استشارية مع خبراء في التجارة توفر لك الكثير في رحلة نمو تجارتك من خلال تقييم المتجر والمتابعة ومراجعة التقارير، وفريق الخبراء جاهز للرد على أسئلتك					</p>
+							</div>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-3e39430" data-id="3e39430" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-f6e70d4 elementor-position-top glass-effect1 elementor-view-default elementor-mobile-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box animated fadeIn" data-id="f6e70d4" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-icon">
+				<span class="elementor-icon elementor-animation-">
+				<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" fill="none"><path d="M24 4L30.18 16.52L44 18.54L34 28.28L36.36 42.04L24 35.54L11.64 42.04L14 28.28L4 18.54L17.82 16.52L24 4Z" stroke="#7462F4" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path></svg>				</span>
+			</div>
+						<div class="elementor-icon-box-content">
+				<h3 class="elementor-icon-box-title">
+					<span>
+						فريق تجهيز المتاجر					</span>
+				</h3>
+									<p class="elementor-icon-box-description">
+						فريق متكامل لمساعدتك في تجهيز متجرك الإلكتروني يدعمك من أول ما تسجل في زد ويوقف معاك إلى ما ترفع كل منتجاتك وتهيئ متجرك لاستقبال الطلبات					</p>
+							</div>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-2d13209" data-id="2d13209" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-9ff25b1 elementor-position-top glass-effect2 elementor-view-default elementor-mobile-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box animated fadeIn" data-id="9ff25b1" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-icon">
+				<span class="elementor-icon elementor-animation-">
+				<svg xmlns="http://www.w3.org/2000/svg" width="44" height="46" viewBox="0 0 44 46" fill="none"><path d="M41.9752 2.92568C42.1003 3.05085 42.1901 3.20695 42.2353 3.37809C43.265 7.29898 43.1602 11.4316 41.9332 15.2953C40.7062 19.159 38.4074 22.5949 35.3041 25.2033L35.2871 25.2176L35.2707 25.2326L32.7966 27.5077L32.3628 27.9066L32.5016 28.4793L33.8386 33.9956C33.8386 33.9957 33.8386 33.9957 33.8386 33.9957C34.0898 35.0403 34.0027 36.1377 33.5899 37.1296C33.179 38.1167 32.4667 38.9486 31.5548 39.5065L23.7593 43.9033C23.6226 43.9804 23.4698 44.0242 23.3131 44.0313C23.1563 44.0383 23.0001 44.0084 22.8571 43.944C22.7141 43.8796 22.5882 43.7825 22.4896 43.6604C22.391 43.5384 22.3225 43.3949 22.2896 43.2415L21.0023 37.2353L20.7735 36.1679L19.7302 36.4892C18.1757 36.9678 16.5755 37.2827 14.9555 37.4286C14.919 37.4315 14.8907 37.4327 14.8675 37.4327C14.7362 37.4327 14.6063 37.4068 14.485 37.3566C14.3638 37.3063 14.2537 37.2327 14.1609 37.1399L14.1606 37.1396L7.96041 30.9394L7.96038 30.9394C7.85202 30.831 7.76999 30.6992 7.72062 30.5542C7.67133 30.4093 7.65591 30.2551 7.67553 30.1034C7.88546 28.5117 8.24328 26.9429 8.74437 25.4176L9.09152 24.3608L8.00393 24.1277L1.85843 22.8103L1.85802 22.8102C1.70465 22.7774 1.56115 22.709 1.43912 22.6105C1.31709 22.5119 1.21995 22.3861 1.15555 22.2431C1.09115 22.1001 1.0613 21.9439 1.06841 21.7873C1.07552 21.6306 1.11939 21.4778 1.19647 21.3412L1.19654 21.3411L5.59692 13.5413L5.60692 13.5235L5.61619 13.5054C6.11718 12.5263 6.95552 11.7616 7.97639 11.3525C8.99726 10.9433 10.1317 10.9173 11.1702 11.2794L11.2168 11.2957L11.2649 11.3072L16.4745 12.5642L17.0756 12.7092L17.4739 12.2363L19.7023 9.59033C19.7026 9.59002 19.7028 9.58971 19.7031 9.5894C22.3192 6.49761 25.7553 4.20746 29.6157 2.98259C33.4759 1.75781 37.6035 1.64796 41.5234 2.66568C41.6943 2.71096 41.8501 2.80066 41.9752 2.92568ZM4.27386 19.9552L3.60616 21.1393L4.9354 21.4242L9.14352 22.3259L9.89202 22.4863L10.2422 21.8056C11.0884 20.161 12.1132 18.6146 13.298 17.1944C13.2985 17.1937 13.299 17.1931 13.2995 17.1925L14.5966 15.6525L15.6372 14.4169L14.0672 14.0364L10.7104 13.2229C10.1156 12.9846 9.45331 12.9694 8.84655 13.1824C8.21427 13.4043 7.68974 13.8573 7.37811 14.45L4.27386 19.9552ZM23.6759 40.1636L23.9607 41.493L25.145 40.8251L30.5766 37.7617L30.0853 36.8907L30.6557 37.7121C31.1715 37.3539 31.5656 36.8467 31.7852 36.2584C32.004 35.6721 32.0392 35.0332 31.8861 34.4265L31.0804 31.1022L30.6807 29.4532L29.4317 30.6016L27.9535 31.9608C26.5571 33.1834 25.0094 34.2216 23.3484 35.0499L22.6544 35.396L22.8169 36.1543L23.6759 40.1636ZM26.5989 30.4889L26.6103 30.4791L26.6214 30.4688L33.9732 23.7123C36.632 21.4871 38.6473 18.5912 39.81 15.3246C40.9754 12.0505 41.2416 8.52371 40.5808 5.11172L40.4518 4.44578L39.7854 4.31937C36.3852 3.6744 32.8747 3.94334 29.6125 5.09875C26.3502 6.25416 23.453 8.25464 21.2167 10.8959L21.215 10.8979L18.3452 14.3052L18.3248 14.3294L18.3061 14.3547C18.2829 14.386 18.2578 14.4158 18.2309 14.444L18.2092 14.4667L18.1889 14.4908L14.8322 18.4762L14.8306 18.4781C12.218 21.5962 10.4846 25.3549 9.80918 29.3663L9.72357 29.8748L10.0882 30.2395L14.8968 35.0481L15.2431 35.3944L15.729 35.3331C19.7508 34.826 23.5327 33.1405 26.5989 30.4889ZM31.4679 11.6325C31.7305 11.6325 31.9906 11.6842 32.2332 11.7847C32.4759 11.8852 32.6964 12.0325 32.8821 12.2183C33.0678 12.404 33.2152 12.6245 33.3157 12.8671C33.4162 13.1098 33.4679 13.3699 33.4679 13.6325V13.6326C33.4679 14.0281 33.3506 14.4148 33.1308 14.7437C32.911 15.0726 32.5987 15.329 32.2332 15.4803C31.8678 15.6317 31.4656 15.6713 31.0777 15.5941C30.6897 15.517 30.3334 15.3265 30.0537 15.0468C29.7739 14.7671 29.5835 14.4107 29.5063 14.0228C29.4291 13.6348 29.4687 13.2327 29.6201 12.8672C29.7715 12.5018 30.0278 12.1894 30.3567 11.9696C30.6856 11.7499 31.0723 11.6326 31.4679 11.6326V11.6325Z" fill="#141316" stroke="#7462F4" stroke-width="2"></path></svg>				</span>
+			</div>
+						<div class="elementor-icon-box-content">
+				<h3 class="elementor-icon-box-title">
+					<span>
+						فريق نمو التجار					</span>
+				</h3>
+									<p class="elementor-icon-box-description">
+						يهمّه نموّك، ويرتب لك كل أمورك من أصغرها لأكبرها لين تبيع منتجك الأول، وتحصل على دعم طوال رحلتك في زد للانطلاق بتجارتك
+&nbsp;					</p>
+							</div>
 		</div>
 				</div>
 				</div>
@@ -1204,214 +1265,59 @@ text-fill-color: transparent;
 								</div>
 					</div>
 		</section>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-8f8179e elementor-section-full_width elementor-section-height-min-height elementor-section-height-default" data-id="8f8179e" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-6780158 elementor-section-full_width elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile elementor-section-height-default elementor-section-height-default" data-id="6780158" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 							<div class="elementor-row">
-					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-c3fde2c" data-id="c3fde2c" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-aa0425e" data-id="aa0425e" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 			<div class="elementor-column-wrap elementor-element-populated">
 							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-2e40216 elementor-vertical-align-middle elementor-position-top elementor-widget elementor-widget-image-box" data-id="2e40216" data-element_type="widget" data-widget_type="image-box.default">
+						<div class="elementor-element elementor-element-0804cec elementor-position-top elementor-view-default elementor-mobile-position-top elementor-vertical-align-top elementor-invisible elementor-widget elementor-widget-icon-box" data-id="0804cec" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="icon-box.default">
 				<div class="elementor-widget-container">
-			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="800" height="227" src="https://res.cloudinary.com/dhhn08v44/image/upload/v1681087111/sem_csa2yw.png" class="attachment-large size-large wp-image-8242" alt="" loading="lazy" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">الإعلانات المدفوعة على جوجل</h3><p class="elementor-image-box-description">مع خبراء الـ SEM لدينا يمكنك إطلاق حملات إعلانية مدفوعة على جوجل بأقل التكاليف وأكبر عائد للمبيعات.</p></div></div>		</div>
-				</div>
-				<div class="elementor-element elementor-element-23d421d elementor-absolute elementor-widget elementor-widget-image" data-id="23d421d" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-								<div class="elementor-image">
-												<img width="496" height="438" src="https://res.cloudinary.com/dhhn08v44/image/upload/v1681170875/34543536_copia_wxqemt.png" class="attachment-medium_large size-medium_large wp-image-8246" alt="" loading="lazy" srcset="https://res.cloudinary.com/dhhn08v44/image/upload/v1681170875/34543536_copia_wxqemt.png" sizes="(max-width: 496px) 100vw, 496px" />														</div>
-						</div>
-				</div>
-				<div class="elementor-element elementor-element-8cee86d elementor-align-right elementor-invisible elementor-widget elementor-widget-button" data-id="8cee86d" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="button.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-button-wrapper">
-			<a href="https://grow.zid.sa/zidappmarket?_ga=2.135077873.1174663681.1676456784-790874070.1571427295" class="elementor-button-link elementor-button elementor-size-lg" role="button">
-						<span class="elementor-button-content-wrapper">
-							<span class="elementor-button-icon elementor-align-icon-left">
-				<svg xmlns="http://www.w3.org/2000/svg" width="16" height="17" viewBox="0 0 16 17" fill="none"><path d="M11.3333 7.83338H6.2733L8.4733 5.64004C8.59884 5.51451 8.66937 5.34424 8.66937 5.16671C8.66937 4.98917 8.59884 4.81891 8.4733 4.69338C8.34777 4.56784 8.17751 4.49731 7.99997 4.49731C7.82244 4.49731 7.65217 4.56784 7.52664 4.69338L4.1933 8.02671C4.13261 8.09011 4.08503 8.16487 4.0533 8.24671C3.98663 8.40902 3.98663 8.59107 4.0533 8.75338C4.08503 8.83521 4.13261 8.90997 4.1933 8.97338L7.52664 12.3067C7.58861 12.3692 7.66235 12.4188 7.74359 12.4526C7.82483 12.4865 7.91196 12.5039 7.99997 12.5039C8.08798 12.5039 8.17512 12.4865 8.25636 12.4526C8.3376 12.4188 8.41133 12.3692 8.4733 12.3067C8.53579 12.2447 8.58539 12.171 8.61923 12.0898C8.65308 12.0085 8.6705 11.9214 8.6705 11.8334C8.6705 11.7454 8.65308 11.6582 8.61923 11.577C8.58539 11.4958 8.53579 11.422 8.4733 11.36L6.2733 9.16671H11.3333C11.5101 9.16671 11.6797 9.09647 11.8047 8.97145C11.9297 8.84642 12 8.67685 12 8.50004C12 8.32323 11.9297 8.15366 11.8047 8.02864C11.6797 7.90361 11.5101 7.83338 11.3333 7.83338Z" fill="#454545"></path></svg>			</span>
-						<span class="elementor-button-text">السعر 400 ريال سعودي</span>
-		</span>
-					</a>
+					<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-icon">
+				<span class="elementor-icon elementor-animation-">
+				<!--?xml version="1.0" encoding="UTF-8"?-->
+<svg xmlns="http://www.w3.org/2000/svg" width="44" height="43" viewBox="0 0 44 43" fill="none">
+  <path d="M22 2L28.18 14.52L42 16.54L32 26.28L34.36 40.04L22 33.54L9.64 40.04L12 26.28L2 16.54L15.82 14.52L22 2Z" stroke="#611DA5" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+</svg>
+				</span>
+			</div>
+						<div class="elementor-icon-box-content">
+				<h3 class="elementor-icon-box-title">
+					<span>
+						فريق تجهيز المتاجر					</span>
+				</h3>
+									<p class="elementor-icon-box-description">
+						فريق متكامل لمساعدتك في تجهيز متجرك الإلكتروني يدعمك من أول ما تسجل في زد ويوقف معاك إلى ما ترفع كل منتجاتك وتهيئ متجرك لاستقبال الطلبات					</p>
+							</div>
 		</div>
 				</div>
 				</div>
 						</div>
 					</div>
 		</div>
-								</div>
-					</div>
-		</section>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-65c4fb7 elementor-section-full_width elementor-section-height-min-height elementor-section-height-default" data-id="65c4fb7" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-						<div class="elementor-container elementor-column-gap-default">
-							<div class="elementor-row">
-					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-94c6e4a" data-id="94c6e4a" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-4a0802f" data-id="4a0802f" data-element_type="column">
 			<div class="elementor-column-wrap elementor-element-populated">
 							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-eca7553 elementor-vertical-align-middle elementor-position-top elementor-widget elementor-widget-image-box" data-id="eca7553" data-element_type="widget" data-widget_type="image-box.default">
+						<div class="elementor-element elementor-element-aa56a41 elementor-position-top elementor-view-default elementor-mobile-position-top elementor-vertical-align-top elementor-invisible elementor-widget elementor-widget-icon-box" data-id="aa56a41" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="icon-box.default">
 				<div class="elementor-widget-container">
-			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="800" height="348" src="https://res.cloudinary.com/dhhn08v44/image/upload/v1681087117/smm_jqoiii.png" class="attachment-large size-large wp-image-8248" alt="" loading="lazy" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">إعلانات التواصل الإجتماعي</h3><p class="elementor-image-box-description">إجعل حملاتك الإعلانية على منصات السوشيال ميديا أكثر فعالية عن طريق خبراء الـ SMM نضمن لك حملات إعلانية بنتائج فوق المتوقعة.</p></div></div>		</div>
-				</div>
-				<div class="elementor-element elementor-element-4e7ff02 elementor-absolute elementor-widget elementor-widget-image" data-id="4e7ff02" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-								<div class="elementor-image">
-												<img width="446" height="481" src="https://res.cloudinary.com/dhhn08v44/image/upload/v1681170655/5608012_onk77x.png" class="attachment-medium_large size-medium_large wp-image-8250" alt="" loading="lazy" srcset="https://res.cloudinary.com/dhhn08v44/image/upload/v1681170655/5608012_onk77x.png" sizes="(max-width: 446px) 100vw, 446px" />														</div>
-						</div>
-				</div>
-				<div class="elementor-element elementor-element-aa5cac7 elementor-align-right elementor-invisible elementor-widget elementor-widget-button" data-id="aa5cac7" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="button.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-button-wrapper">
-			<a href="https://grow.zid.sa/zidship?_ga=2.57642094.592837301.1676977718-790874070.1571427295" class="elementor-button-link elementor-button elementor-size-lg" role="button">
-						<span class="elementor-button-content-wrapper">
-							<span class="elementor-button-icon elementor-align-icon-left">
-				<svg xmlns="http://www.w3.org/2000/svg" width="16" height="17" viewBox="0 0 16 17" fill="none"><path d="M11.3333 7.83338H6.2733L8.4733 5.64004C8.59884 5.51451 8.66937 5.34424 8.66937 5.16671C8.66937 4.98917 8.59884 4.81891 8.4733 4.69338C8.34777 4.56784 8.17751 4.49731 7.99997 4.49731C7.82244 4.49731 7.65217 4.56784 7.52664 4.69338L4.1933 8.02671C4.13261 8.09011 4.08503 8.16487 4.0533 8.24671C3.98663 8.40902 3.98663 8.59107 4.0533 8.75338C4.08503 8.83521 4.13261 8.90997 4.1933 8.97338L7.52664 12.3067C7.58861 12.3692 7.66235 12.4188 7.74359 12.4526C7.82483 12.4865 7.91196 12.5039 7.99997 12.5039C8.08798 12.5039 8.17512 12.4865 8.25636 12.4526C8.3376 12.4188 8.41133 12.3692 8.4733 12.3067C8.53579 12.2447 8.58539 12.171 8.61923 12.0898C8.65308 12.0085 8.6705 11.9214 8.6705 11.8334C8.6705 11.7454 8.65308 11.6582 8.61923 11.577C8.58539 11.4958 8.53579 11.422 8.4733 11.36L6.2733 9.16671H11.3333C11.5101 9.16671 11.6797 9.09647 11.8047 8.97145C11.9297 8.84642 12 8.67685 12 8.50004C12 8.32323 11.9297 8.15366 11.8047 8.02864C11.6797 7.90361 11.5101 7.83338 11.3333 7.83338Z" fill="#454545"></path></svg>			</span>
-						<span class="elementor-button-text">السعر 400 ريال سعودي</span>
-		</span>
-					</a>
-		</div>
-				</div>
-				</div>
-						</div>
-					</div>
-		</div>
-								</div>
-					</div>
-		</section>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-118c282 elementor-section-full_width elementor-section-height-min-height elementor-section-height-default" data-id="118c282" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-						<div class="elementor-container elementor-column-gap-default">
-							<div class="elementor-row">
-					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-235915d" data-id="235915d" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-b720259 elementor-vertical-align-middle elementor-position-top elementor-widget elementor-widget-image-box" data-id="b720259" data-element_type="widget" data-widget_type="image-box.default">
-				<div class="elementor-widget-container">
-			<div class="elementor-image-box-wrapper"><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">تصميم صور المنتجات</h3><p class="elementor-image-box-description">أجعل متجرك يبدو أجمل عن طريق تصميم صور جذابة وجميلة للمنتجات عن طريق خبراء التصميم للحصول على صور منتجات متناسقة ومحفزة على الشراء.</p></div></div>		</div>
-				</div>
-				<div class="elementor-element elementor-element-a6ed8d4 elementor-absolute elementor-widget elementor-widget-image" data-id="a6ed8d4" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-								<div class="elementor-image">
-												<img width="768" height="395" src="https://res.cloudinary.com/dhhn08v44/image/upload/v1681168752/5078060_copia_mtyc7u.png" class="attachment-medium_large size-medium_large wp-image-10081" alt="" loading="lazy" srcset="https://res.cloudinary.com/dhhn08v44/image/upload/v1681168752/5078060_copia_mtyc7u.png" sizes="(max-width: 768px) 100vw, 768px" />														</div>
-						</div>
-				</div>
-				<div class="elementor-element elementor-element-c1ecfd4 elementor-align-right elementor-invisible elementor-widget elementor-widget-button" data-id="c1ecfd4" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="button.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-button-wrapper">
-			<a href="#" class="elementor-button-link elementor-button elementor-size-lg" role="button">
-						<span class="elementor-button-content-wrapper">
-							<span class="elementor-button-icon elementor-align-icon-left">
-				<svg xmlns="http://www.w3.org/2000/svg" width="16" height="17" viewBox="0 0 16 17" fill="none"><path d="M11.3333 7.83338H6.2733L8.4733 5.64004C8.59884 5.51451 8.66937 5.34424 8.66937 5.16671C8.66937 4.98917 8.59884 4.81891 8.4733 4.69338C8.34777 4.56784 8.17751 4.49731 7.99997 4.49731C7.82244 4.49731 7.65217 4.56784 7.52664 4.69338L4.1933 8.02671C4.13261 8.09011 4.08503 8.16487 4.0533 8.24671C3.98663 8.40902 3.98663 8.59107 4.0533 8.75338C4.08503 8.83521 4.13261 8.90997 4.1933 8.97338L7.52664 12.3067C7.58861 12.3692 7.66235 12.4188 7.74359 12.4526C7.82483 12.4865 7.91196 12.5039 7.99997 12.5039C8.08798 12.5039 8.17512 12.4865 8.25636 12.4526C8.3376 12.4188 8.41133 12.3692 8.4733 12.3067C8.53579 12.2447 8.58539 12.171 8.61923 12.0898C8.65308 12.0085 8.6705 11.9214 8.6705 11.8334C8.6705 11.7454 8.65308 11.6582 8.61923 11.577C8.58539 11.4958 8.53579 11.422 8.4733 11.36L6.2733 9.16671H11.3333C11.5101 9.16671 11.6797 9.09647 11.8047 8.97145C11.9297 8.84642 12 8.67685 12 8.50004C12 8.32323 11.9297 8.15366 11.8047 8.02864C11.6797 7.90361 11.5101 7.83338 11.3333 7.83338Z" fill="#454545"></path></svg>			</span>
-						<span class="elementor-button-text">السعر 200 ريال سعودي</span>
-		</span>
-					</a>
-		</div>
-				</div>
-				</div>
-						</div>
-					</div>
-		</div>
-								</div>
-					</div>
-		</section>
-						</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-f37327a" data-id="f37327a" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
-			<div class="elementor-column-wrap elementor-element-populated">
-					<div class="elementor-background-overlay"></div>
-							<div class="elementor-widget-wrap">
-						<section class="elementor-section elementor-inner-section elementor-element elementor-element-227edb0 elementor-section-full_width elementor-section-height-min-height elementor-section-height-default" data-id="227edb0" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-							<div class="elementor-row">
-					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-c149f1b" data-id="c149f1b" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-211715c elementor-vertical-align-middle elementor-position-top elementor-widget elementor-widget-image-box" data-id="211715c" data-element_type="widget" data-widget_type="image-box.default">
-				<div class="elementor-widget-container">
-			<div class="elementor-image-box-wrapper"><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">إنشاء متجر إلكتروني متكامل</h3><p class="elementor-image-box-description">أحصل على متجر إلكتروني متكامل بأرخص سعر وأفضل تصميم يناسب تخصصك عن طريق خبراء تصميم المتاجر الإلكترونية لدينا.<span style="color: var( --e-global-color-accent ); letter-spacing: 0px; word-spacing: 0em;"></span></p></div></div>		</div>
-				</div>
-				<div class="elementor-element elementor-element-7b21919 elementor-absolute elementor-widget elementor-widget-image" data-id="7b21919" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-								<div class="elementor-image">
-												<img width="800" height="789" src="https://res.cloudinary.com/dhhn08v44/image/upload/v1681164287/11111_x0a1vp.png" class="attachment-large size-large wp-image-10076" alt="" loading="lazy" srcset="https://res.cloudinary.com/dhhn08v44/image/upload/v1681164287/11111_x0a1vp.png" sizes="(max-width: 800px) 100vw, 800px" />														</div>
-						</div>
-				</div>
-				<div class="elementor-element elementor-element-ce946c0 elementor-align-right elementor-invisible elementor-widget elementor-widget-button" data-id="ce946c0" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="button.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-button-wrapper">
-			<a href="https://solutions.zid.sa/" class="elementor-button-link elementor-button elementor-size-lg" role="button">
-						<span class="elementor-button-content-wrapper">
-							<span class="elementor-button-icon elementor-align-icon-left">
-				<svg xmlns="http://www.w3.org/2000/svg" width="16" height="17" viewBox="0 0 16 17" fill="none"><path d="M11.3332 7.83338H6.27318L8.47318 5.64004C8.59872 5.51451 8.66924 5.34424 8.66924 5.16671C8.66924 4.98917 8.59872 4.81891 8.47318 4.69338C8.34765 4.56784 8.17738 4.49731 7.99985 4.49731C7.82231 4.49731 7.65205 4.56784 7.52652 4.69338L4.19318 8.02671C4.13249 8.09011 4.08491 8.16487 4.05318 8.24671C3.9865 8.40902 3.9865 8.59107 4.05318 8.75338C4.08491 8.83521 4.13249 8.90997 4.19318 8.97338L7.52652 12.3067C7.58849 12.3692 7.66223 12.4188 7.74346 12.4526C7.8247 12.4865 7.91184 12.5039 7.99985 12.5039C8.08786 12.5039 8.17499 12.4865 8.25623 12.4526C8.33747 12.4188 8.41121 12.3692 8.47318 12.3067C8.53567 12.2447 8.58526 12.171 8.61911 12.0898C8.65296 12.0085 8.67038 11.9214 8.67038 11.8334C8.67038 11.7454 8.65296 11.6582 8.61911 11.577C8.58526 11.4958 8.53567 11.422 8.47318 11.36L6.27318 9.16671H11.3332C11.51 9.16671 11.6796 9.09647 11.8046 8.97145C11.9296 8.84642 11.9998 8.67685 11.9998 8.50004C11.9998 8.32323 11.9296 8.15366 11.8046 8.02864C11.6796 7.90361 11.51 7.83338 11.3332 7.83338Z" fill="url(#paint0_linear_2841_95832)"></path><defs><linearGradient id="paint0_linear_2841_95832" x1="11.9998" y1="8.56036" x2="4.00317" y2="8.56036" gradientUnits="userSpaceOnUse"><stop stop-color="#802BD6"></stop></linearGradient></defs></svg>			</span>
-						<span class="elementor-button-text">السعر 250 ريال سعودي</span>
-		</span>
-					</a>
-		</div>
-				</div>
-				</div>
-						</div>
-					</div>
-		</div>
-								</div>
-					</div>
-		</section>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-18c510b elementor-section-full_width elementor-section-height-min-height elementor-section-height-default" data-id="18c510b" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-							<div class="elementor-row">
-					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-1eab4e8" data-id="1eab4e8" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-f00f9ad elementor-vertical-align-middle elementor-position-top elementor-widget elementor-widget-image-box" data-id="f00f9ad" data-element_type="widget" data-widget_type="image-box.default">
-				<div class="elementor-widget-container">
-			<div class="elementor-image-box-wrapper"><div class="elementor-image-box-content"><h3 class="elementor-image-box-title"><a href="https://grow.zid.sa/zidpaysoftlaunch?_ga=2.163337084.1174663681.1676456784-790874070.1571427295" target="_blank" title="CEO">تصميم الهوية البصرية</a></h3><p class="elementor-image-box-description">نقوم بتصميم هوية بصرية بشكل كامل لنشاطك التجاري (شعار - بنرات - صور المنتجات - الإعلانات) بأحدث تقنيات التصميم.</p></div></div>		</div>
-				</div>
-				<div class="elementor-element elementor-element-b13d156 elementor-absolute elementor-widget elementor-widget-image" data-id="b13d156" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-								<div class="elementor-image">
-												<img width="768" height="906" src="https://res.cloudinary.com/dhhn08v44/image/upload/v1681165475/112_stk6sp.png" class="attachment-medium_large size-medium_large wp-image-8239" alt="" loading="lazy" />														</div>
-						</div>
-				</div>
-				<div class="elementor-element elementor-element-f7e0694 elementor-align-right elementor-invisible elementor-widget elementor-widget-button" data-id="f7e0694" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="button.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-button-wrapper">
-			<a href="https://grow.zid.sa/zidpay?_ga=2.113168320.592837301.1676977718-790874070.1571427295" class="elementor-button-link elementor-button elementor-size-lg" role="button">
-						<span class="elementor-button-content-wrapper">
-							<span class="elementor-button-icon elementor-align-icon-left">
-				<svg xmlns="http://www.w3.org/2000/svg" width="16" height="17" viewBox="0 0 16 17" fill="none"><path d="M11.3333 7.83338H6.2733L8.4733 5.64004C8.59884 5.51451 8.66937 5.34424 8.66937 5.16671C8.66937 4.98917 8.59884 4.81891 8.4733 4.69338C8.34777 4.56784 8.17751 4.49731 7.99997 4.49731C7.82244 4.49731 7.65217 4.56784 7.52664 4.69338L4.1933 8.02671C4.13261 8.09011 4.08503 8.16487 4.0533 8.24671C3.98663 8.40902 3.98663 8.59107 4.0533 8.75338C4.08503 8.83521 4.13261 8.90997 4.1933 8.97338L7.52664 12.3067C7.58861 12.3692 7.66235 12.4188 7.74359 12.4526C7.82483 12.4865 7.91196 12.5039 7.99997 12.5039C8.08798 12.5039 8.17512 12.4865 8.25636 12.4526C8.3376 12.4188 8.41133 12.3692 8.4733 12.3067C8.53579 12.2447 8.58539 12.171 8.61923 12.0898C8.65308 12.0085 8.6705 11.9214 8.6705 11.8334C8.6705 11.7454 8.65308 11.6582 8.61923 11.577C8.58539 11.4958 8.53579 11.422 8.4733 11.36L6.2733 9.16671H11.3333C11.5101 9.16671 11.6797 9.09647 11.8047 8.97145C11.9297 8.84642 12 8.67685 12 8.50004C12 8.32323 11.9297 8.15366 11.8047 8.02864C11.6797 7.90361 11.5101 7.83338 11.3333 7.83338Z" fill="white"></path></svg>			</span>
-						<span class="elementor-button-text">السعر 300 ريال سعودي</span>
-		</span>
-					</a>
-		</div>
-				</div>
-				</div>
-						</div>
-					</div>
-		</div>
-								</div>
-					</div>
-		</section>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-d170d25 elementor-section-full_width elementor-section-height-min-height elementor-section-height-default" data-id="d170d25" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-						<div class="elementor-container elementor-column-gap-default">
-							<div class="elementor-row">
-					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-d084fc2" data-id="d084fc2" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-b4d07bb elementor-vertical-align-middle elementor-position-top elementor-widget elementor-widget-image-box" data-id="b4d07bb" data-element_type="widget" data-widget_type="image-box.default">
-				<div class="elementor-widget-container">
-			<div class="elementor-image-box-wrapper"><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">إستشارة تسويقية</h3><p class="elementor-image-box-description">إذا كنت تواجه صعوبة في الحصول على مبيعات ونجاح حملاتك التسويقية قم بالتواصل معنا الآن للحصول على نصائح من خبراء التسويق.</p></div></div>		</div>
-				</div>
-				<div class="elementor-element elementor-element-8a5afb3 elementor-absolute elementor-widget elementor-widget-image" data-id="8a5afb3" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-								<div class="elementor-image">
-												<img width="269" height="510" src="https://res.cloudinary.com/dhhn08v44/image/upload/v1681167775/324234_qydkxn.png" class="attachment-medium_large size-medium_large wp-image-8254" alt="" loading="lazy" srcset="https://res.cloudinary.com/dhhn08v44/image/upload/v1681167775/324234_qydkxn.png" sizes="(max-width: 269px) 100vw, 269px" />														</div>
-						</div>
-				</div>
-				<div class="elementor-element elementor-element-0cee211 elementor-align-right elementor-invisible elementor-widget elementor-widget-button" data-id="0cee211" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="button.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-button-wrapper">
-			<a href="https://mazeed.zid.sa/?_ga=2.226315102.592837301.1676977718-790874070.1571427295" class="elementor-button-link elementor-button elementor-size-lg" role="button">
-						<span class="elementor-button-content-wrapper">
-							<span class="elementor-button-icon elementor-align-icon-left">
-				<svg xmlns="http://www.w3.org/2000/svg" width="16" height="17" viewBox="0 0 16 17" fill="none"><path d="M11.3333 7.83338H6.2733L8.4733 5.64004C8.59884 5.51451 8.66937 5.34424 8.66937 5.16671C8.66937 4.98917 8.59884 4.81891 8.4733 4.69338C8.34777 4.56784 8.17751 4.49731 7.99997 4.49731C7.82244 4.49731 7.65217 4.56784 7.52664 4.69338L4.1933 8.02671C4.13261 8.09011 4.08503 8.16487 4.0533 8.24671C3.98663 8.40902 3.98663 8.59107 4.0533 8.75338C4.08503 8.83521 4.13261 8.90997 4.1933 8.97338L7.52664 12.3067C7.58861 12.3692 7.66235 12.4188 7.74359 12.4526C7.82483 12.4865 7.91196 12.5039 7.99997 12.5039C8.08798 12.5039 8.17512 12.4865 8.25636 12.4526C8.3376 12.4188 8.41133 12.3692 8.4733 12.3067C8.53579 12.2447 8.58539 12.171 8.61923 12.0898C8.65308 12.0085 8.6705 11.9214 8.6705 11.8334C8.6705 11.7454 8.65308 11.6582 8.61923 11.577C8.58539 11.4958 8.53579 11.422 8.4733 11.36L6.2733 9.16671H11.3333C11.5101 9.16671 11.6797 9.09647 11.8047 8.97145C11.9297 8.84642 12 8.67685 12 8.50004C12 8.32323 11.9297 8.15366 11.8047 8.02864C11.6797 7.90361 11.5101 7.83338 11.3333 7.83338Z" fill="white"></path></svg>			</span>
-						<span class="elementor-button-text">السعر 100 ريال سعودي</span>
-		</span>
-					</a>
+					<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-icon">
+				<span class="elementor-icon elementor-animation-">
+				<!--?xml version="1.0" encoding="UTF-8"?-->
+<svg xmlns="http://www.w3.org/2000/svg" width="44" height="46" viewBox="0 0 44 46" fill="none">
+  <path d="M41.9747 2.92568C42.0998 3.05085 42.1896 3.20695 42.2348 3.37809C43.2645 7.29898 43.1597 11.4316 41.9327 15.2953C40.7057 19.159 38.4069 22.5949 35.3037 25.2033L35.2866 25.2176L35.2702 25.2326L32.7961 27.5077L32.3623 27.9066L32.5011 28.4793L33.8381 33.9956C33.8381 33.9957 33.8381 33.9957 33.8381 33.9957C34.0893 35.0403 34.0022 36.1377 33.5894 37.1296C33.1786 38.1167 32.4662 38.9486 31.5543 39.5065L23.7588 43.9033C23.6221 43.9804 23.4693 44.0242 23.3126 44.0313C23.1558 44.0383 22.9997 44.0084 22.8566 43.944C22.7136 43.8796 22.5877 43.7825 22.4891 43.6604C22.3905 43.5384 22.322 43.3949 22.2891 43.2415L21.0018 37.2353L20.773 36.1679L19.7297 36.4892C18.1752 36.9678 16.575 37.2827 14.9551 37.4286C14.9185 37.4315 14.8902 37.4327 14.867 37.4327C14.7357 37.4327 14.6058 37.4068 14.4846 37.3566C14.3633 37.3063 14.2532 37.2327 14.1604 37.1399L14.1601 37.1396L7.95992 30.9394L7.95989 30.9394C7.85153 30.831 7.7695 30.6992 7.72013 30.5542C7.67085 30.4093 7.65542 30.2551 7.67504 30.1034C7.88497 28.5117 8.2428 26.9429 8.74389 25.4176L9.09103 24.3608L8.00344 24.1277L1.85794 22.8103L1.85753 22.8102C1.70416 22.7774 1.56067 22.709 1.43863 22.6105C1.3166 22.5119 1.21946 22.3861 1.15507 22.2431C1.09067 22.1001 1.06081 21.9439 1.06792 21.7873C1.07503 21.6306 1.1189 21.4778 1.19598 21.3412L1.19605 21.3411L5.59643 13.5413L5.60643 13.5235L5.6157 13.5054C6.11669 12.5263 6.95503 11.7616 7.9759 11.3525C8.99677 10.9433 10.1312 10.9173 11.1697 11.2794L11.2164 11.2957L11.2644 11.3072L16.474 12.5642L17.0751 12.7092L17.4734 12.2363L19.7018 9.59033C19.7021 9.59002 19.7023 9.58971 19.7026 9.5894C22.3187 6.49761 25.7548 4.20746 29.6153 2.98259C33.4754 1.75781 37.603 1.64796 41.5229 2.66568C41.6938 2.71096 41.8497 2.80066 41.9747 2.92568ZM4.27337 19.9552L3.60567 21.1393L4.93491 21.4242L9.14303 22.3259L9.89153 22.4863L10.2418 21.8056C11.088 20.161 12.1127 18.6146 13.2975 17.1944C13.298 17.1937 13.2985 17.1931 13.299 17.1925L14.5961 15.6525L15.6367 14.4169L14.0667 14.0364L10.7099 13.2229C10.1151 12.9846 9.45283 12.9694 8.84606 13.1824C8.21378 13.4043 7.68925 13.8573 7.37762 14.45L4.27337 19.9552ZM23.6754 40.1636L23.9602 41.493L25.1445 40.8251L30.5761 37.7617L30.0849 36.8907L30.6553 37.7121C31.171 37.3539 31.5651 36.8467 31.7847 36.2584C32.0035 35.6721 32.0387 35.0332 31.8856 34.4265L31.0799 31.1022L30.6803 29.4532L29.4312 30.6016L27.953 31.9608C26.5566 33.1834 25.0089 34.2216 23.3479 35.0499L22.6539 35.396L22.8164 36.1543L23.6754 40.1636ZM26.5984 30.4889L26.6098 30.4791L26.6209 30.4688L33.9727 23.7123C36.6315 21.4871 38.6469 18.5912 39.8095 15.3246C40.9749 12.0505 41.2411 8.52371 40.5803 5.11172L40.4513 4.44578L39.7849 4.31937C36.3847 3.6744 32.8742 3.94334 29.612 5.09875C26.3497 6.25416 23.4525 8.25464 21.2162 10.8959L21.2145 10.8979L18.3447 14.3052L18.3244 14.3294L18.3056 14.3547C18.2825 14.386 18.2573 14.4158 18.2304 14.444L18.2087 14.4667L18.1884 14.4908L14.8317 18.4762L14.8301 18.4781C12.2175 21.5962 10.4841 25.3549 9.80869 29.3663L9.72308 29.8748L10.0877 30.2395L14.8963 35.0481L15.2426 35.3944L15.7285 35.3331C19.7503 34.826 23.5323 33.1405 26.5984 30.4889ZM31.4674 11.6325C31.73 11.6325 31.9901 11.6842 32.2328 11.7847C32.4754 11.8852 32.6959 12.0325 32.8816 12.2183C33.0673 12.404 33.2147 12.6245 33.3152 12.8671C33.4157 13.1098 33.4674 13.3699 33.4674 13.6325V13.6326C33.4674 14.0281 33.3501 14.4148 33.1303 14.7437C32.9105 15.0726 32.5982 15.329 32.2327 15.4803C31.8673 15.6317 31.4652 15.6713 31.0772 15.5941C30.6892 15.517 30.3329 15.3265 30.0532 15.0468C29.7735 14.7671 29.583 14.4107 29.5058 14.0228C29.4286 13.6348 29.4682 13.2327 29.6196 12.8672C29.771 12.5018 30.0273 12.1894 30.3562 11.9696C30.6851 11.7499 31.0718 11.6326 31.4674 11.6326V11.6325Z" fill="black" stroke="#611DA5" stroke-width="2"></path>
+</svg>
+				</span>
+			</div>
+						<div class="elementor-icon-box-content">
+				<h3 class="elementor-icon-box-title">
+					<span>
+						فريق نمو التجار					</span>
+				</h3>
+									<p class="elementor-icon-box-description">
+						يهمّه نموّك، ويرتب لك كل أمورك من أصغرها لأكبرها لين تبيع منتجك الأول، وتحصل على دعم طوال رحلتك في زد للانطلاق بتجارتك					</p>
+							</div>
 		</div>
 				</div>
 				</div>
@@ -1427,238 +1333,7 @@ text-fill-color: transparent;
 								</div>
 					</div>
 		</section>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-d09d795 elementor-section-full_width elementor-hidden-desktop elementor-section-height-default elementor-section-height-default" data-id="d09d795" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-							<div class="elementor-background-overlay"></div>
-							<div class="elementor-container elementor-column-gap-default">
-							<div class="elementor-row">
-					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-38c6560" data-id="38c6560" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-			<div class="elementor-column-wrap elementor-element-populated">
-					<div class="elementor-background-overlay"></div>
-							<div class="elementor-widget-wrap">
-						<section class="elementor-section elementor-inner-section elementor-element elementor-element-4fe0488 elementor-section-full_width elementor-section-height-min-height elementor-section-height-default" data-id="4fe0488" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-						<div class="elementor-container elementor-column-gap-default">
-							<div class="elementor-row">
-					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-0d4c179" data-id="0d4c179" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-75fbd08 elementor-vertical-align-middle elementor-position-top elementor-widget elementor-widget-image-box" data-id="75fbd08" data-element_type="widget" data-widget_type="image-box.default">
-				<div class="elementor-widget-container">
-			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="150" height="124" src="https://res.cloudinary.com/dhhn08v44/image/upload/v1681086778/345355_btlfu1.png" class="attachment-thumbnail size-thumbnail wp-image-8122" alt="" loading="lazy" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">تحسين محركات البحث</h3><p class="elementor-image-box-description">تصدر نتائج البحث.
-العمل على رفع ترتيب المتاجر الإلكترونية في نتائج البحث المجانية للحصول على مبيعات بشكل دائم.</p></div></div>		</div>
-				</div>
-				<div class="elementor-element elementor-element-8ae47dd elementor-align-right elementor-invisible elementor-widget elementor-widget-button" data-id="8ae47dd" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="button.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-button-wrapper">
-			<a href="https://seofollow.store/" class="elementor-button-link elementor-button elementor-size-lg" role="button">
-						<span class="elementor-button-content-wrapper">
-							<span class="elementor-button-icon elementor-align-icon-left">
-				<svg xmlns="http://www.w3.org/2000/svg" width="16" height="17" viewBox="0 0 16 17" fill="none"><path d="M11.3333 7.83338H6.2733L8.4733 5.64004C8.59884 5.51451 8.66937 5.34424 8.66937 5.16671C8.66937 4.98917 8.59884 4.81891 8.4733 4.69338C8.34777 4.56784 8.17751 4.49731 7.99997 4.49731C7.82244 4.49731 7.65217 4.56784 7.52664 4.69338L4.1933 8.02671C4.13261 8.09011 4.08503 8.16487 4.0533 8.24671C3.98663 8.40902 3.98663 8.59107 4.0533 8.75338C4.08503 8.83521 4.13261 8.90997 4.1933 8.97338L7.52664 12.3067C7.58861 12.3692 7.66235 12.4188 7.74359 12.4526C7.82483 12.4865 7.91196 12.5039 7.99997 12.5039C8.08798 12.5039 8.17512 12.4865 8.25636 12.4526C8.3376 12.4188 8.41133 12.3692 8.4733 12.3067C8.53579 12.2447 8.58539 12.171 8.61923 12.0898C8.65308 12.0085 8.6705 11.9214 8.6705 11.8334C8.6705 11.7454 8.65308 11.6582 8.61923 11.577C8.58539 11.4958 8.53579 11.422 8.4733 11.36L6.2733 9.16671H11.3333C11.5101 9.16671 11.6797 9.09647 11.8047 8.97145C11.9297 8.84642 12 8.67685 12 8.50004C12 8.32323 11.9297 8.15366 11.8047 8.02864C11.6797 7.90361 11.5101 7.83338 11.3333 7.83338Z" fill="white"></path></svg>			</span>
-						<span class="elementor-button-text">السعر 370 ريال سعودي</span>
-		</span>
-					</a>
-		</div>
-				</div>
-				</div>
-						</div>
-					</div>
-		</div>
-								</div>
-					</div>
-		</section>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-aa54271 elementor-section-full_width elementor-section-height-min-height elementor-section-height-default" data-id="aa54271" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-						<div class="elementor-container elementor-column-gap-default">
-							<div class="elementor-row">
-					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-0bd99d6" data-id="0bd99d6" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-6f7b762 elementor-vertical-align-middle elementor-position-top elementor-widget elementor-widget-image-box" data-id="6f7b762" data-element_type="widget" data-widget_type="image-box.default">
-				<div class="elementor-widget-container">
-			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="800" height="227" src="https://res.cloudinary.com/dhhn08v44/image/upload/v1681087111/sem_csa2yw.png" class="attachment-large size-large wp-image-8242" alt="" loading="lazy" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">الإعلانات المدفوعة على جوجل</h3><p class="elementor-image-box-description">مع خبراء الـ SEM لدينا يمكنك إطلاق حملات إعلانية مدفوعة على جوجل بأقل التكاليف وأكبر عائد للمبيعات.</p></div></div>		</div>
-				</div>
-				<div class="elementor-element elementor-element-5245650 elementor-align-right elementor-invisible elementor-widget elementor-widget-button" data-id="5245650" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="button.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-button-wrapper">
-			<a href="https://grow.zid.sa/zidappmarket?_ga=2.135077873.1174663681.1676456784-790874070.1571427295" class="elementor-button-link elementor-button elementor-size-lg" role="button">
-						<span class="elementor-button-content-wrapper">
-							<span class="elementor-button-icon elementor-align-icon-left">
-				<svg xmlns="http://www.w3.org/2000/svg" width="16" height="17" viewBox="0 0 16 17" fill="none"><path d="M11.3333 7.83338H6.2733L8.4733 5.64004C8.59884 5.51451 8.66937 5.34424 8.66937 5.16671C8.66937 4.98917 8.59884 4.81891 8.4733 4.69338C8.34777 4.56784 8.17751 4.49731 7.99997 4.49731C7.82244 4.49731 7.65217 4.56784 7.52664 4.69338L4.1933 8.02671C4.13261 8.09011 4.08503 8.16487 4.0533 8.24671C3.98663 8.40902 3.98663 8.59107 4.0533 8.75338C4.08503 8.83521 4.13261 8.90997 4.1933 8.97338L7.52664 12.3067C7.58861 12.3692 7.66235 12.4188 7.74359 12.4526C7.82483 12.4865 7.91196 12.5039 7.99997 12.5039C8.08798 12.5039 8.17512 12.4865 8.25636 12.4526C8.3376 12.4188 8.41133 12.3692 8.4733 12.3067C8.53579 12.2447 8.58539 12.171 8.61923 12.0898C8.65308 12.0085 8.6705 11.9214 8.6705 11.8334C8.6705 11.7454 8.65308 11.6582 8.61923 11.577C8.58539 11.4958 8.53579 11.422 8.4733 11.36L6.2733 9.16671H11.3333C11.5101 9.16671 11.6797 9.09647 11.8047 8.97145C11.9297 8.84642 12 8.67685 12 8.50004C12 8.32323 11.9297 8.15366 11.8047 8.02864C11.6797 7.90361 11.5101 7.83338 11.3333 7.83338Z" fill="#454545"></path></svg>			</span>
-						<span class="elementor-button-text">السعر 400 ريال سعودي</span>
-		</span>
-					</a>
-		</div>
-				</div>
-				</div>
-						</div>
-					</div>
-		</div>
-								</div>
-					</div>
-		</section>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-6891122 elementor-section-full_width elementor-section-height-min-height elementor-section-height-default" data-id="6891122" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-						<div class="elementor-container elementor-column-gap-default">
-							<div class="elementor-row">
-					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-745c847" data-id="745c847" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-0343ed1 elementor-vertical-align-middle elementor-position-top elementor-widget elementor-widget-image-box" data-id="0343ed1" data-element_type="widget" data-widget_type="image-box.default">
-				<div class="elementor-widget-container">
-			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="800" height="348" src="https://res.cloudinary.com/dhhn08v44/image/upload/v1681087117/smm_jqoiii.png" class="attachment-large size-large wp-image-8248" alt="" loading="lazy" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">إعلانات التواصل الإجتماعي</h3><p class="elementor-image-box-description">إجعل حملاتك الإعلانية على منصات السوشيال ميديا أكثر فعالية عن طريق خبراء الـ SMM نضمن لك حملات إعلانية بنتائج فوق المتوقعة.</p></div></div>		</div>
-				</div>
-				<div class="elementor-element elementor-element-312edcc elementor-align-right elementor-invisible elementor-widget elementor-widget-button" data-id="312edcc" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="button.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-button-wrapper">
-			<a href="https://grow.zid.sa/zidship?_ga=2.57642094.592837301.1676977718-790874070.1571427295" class="elementor-button-link elementor-button elementor-size-lg" role="button">
-						<span class="elementor-button-content-wrapper">
-							<span class="elementor-button-icon elementor-align-icon-left">
-				<svg xmlns="http://www.w3.org/2000/svg" width="16" height="17" viewBox="0 0 16 17" fill="none"><path d="M11.3333 7.83338H6.2733L8.4733 5.64004C8.59884 5.51451 8.66937 5.34424 8.66937 5.16671C8.66937 4.98917 8.59884 4.81891 8.4733 4.69338C8.34777 4.56784 8.17751 4.49731 7.99997 4.49731C7.82244 4.49731 7.65217 4.56784 7.52664 4.69338L4.1933 8.02671C4.13261 8.09011 4.08503 8.16487 4.0533 8.24671C3.98663 8.40902 3.98663 8.59107 4.0533 8.75338C4.08503 8.83521 4.13261 8.90997 4.1933 8.97338L7.52664 12.3067C7.58861 12.3692 7.66235 12.4188 7.74359 12.4526C7.82483 12.4865 7.91196 12.5039 7.99997 12.5039C8.08798 12.5039 8.17512 12.4865 8.25636 12.4526C8.3376 12.4188 8.41133 12.3692 8.4733 12.3067C8.53579 12.2447 8.58539 12.171 8.61923 12.0898C8.65308 12.0085 8.6705 11.9214 8.6705 11.8334C8.6705 11.7454 8.65308 11.6582 8.61923 11.577C8.58539 11.4958 8.53579 11.422 8.4733 11.36L6.2733 9.16671H11.3333C11.5101 9.16671 11.6797 9.09647 11.8047 8.97145C11.9297 8.84642 12 8.67685 12 8.50004C12 8.32323 11.9297 8.15366 11.8047 8.02864C11.6797 7.90361 11.5101 7.83338 11.3333 7.83338Z" fill="#454545"></path></svg>			</span>
-						<span class="elementor-button-text">السعر 400 ريال سعودي</span>
-		</span>
-					</a>
-		</div>
-				</div>
-				</div>
-						</div>
-					</div>
-		</div>
-								</div>
-					</div>
-		</section>
-						</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-191277c" data-id="191277c" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
-			<div class="elementor-column-wrap elementor-element-populated">
-					<div class="elementor-background-overlay"></div>
-							<div class="elementor-widget-wrap">
-						<section class="elementor-section elementor-inner-section elementor-element elementor-element-3ba25b4 elementor-section-full_width elementor-section-height-min-height elementor-section-height-default" data-id="3ba25b4" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-							<div class="elementor-row">
-					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-ff80177" data-id="ff80177" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-27376f3 elementor-vertical-align-middle elementor-position-top elementor-widget elementor-widget-image-box" data-id="27376f3" data-element_type="widget" data-widget_type="image-box.default">
-				<div class="elementor-widget-container">
-			<div class="elementor-image-box-wrapper"><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">إنشاء متجر إلكتروني متكامل</h3><p class="elementor-image-box-description">
-أحصل على متجر إلكتروني متكامل بأرخص سعر وأفضل تصميم يناسب تخصصك عن طريق خبراء تصميم المتاجر الإلكترونية لدينا.</p></div></div>		</div>
-				</div>
-				<div class="elementor-element elementor-element-2908030 elementor-align-right elementor-invisible elementor-widget elementor-widget-button" data-id="2908030" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="button.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-button-wrapper">
-			<a href="https://solutions.zid.sa/" class="elementor-button-link elementor-button elementor-size-lg" role="button">
-						<span class="elementor-button-content-wrapper">
-							<span class="elementor-button-icon elementor-align-icon-left">
-				<svg xmlns="http://www.w3.org/2000/svg" width="16" height="17" viewBox="0 0 16 17" fill="none"><path d="M11.3332 7.83338H6.27318L8.47318 5.64004C8.59872 5.51451 8.66924 5.34424 8.66924 5.16671C8.66924 4.98917 8.59872 4.81891 8.47318 4.69338C8.34765 4.56784 8.17738 4.49731 7.99985 4.49731C7.82231 4.49731 7.65205 4.56784 7.52652 4.69338L4.19318 8.02671C4.13249 8.09011 4.08491 8.16487 4.05318 8.24671C3.9865 8.40902 3.9865 8.59107 4.05318 8.75338C4.08491 8.83521 4.13249 8.90997 4.19318 8.97338L7.52652 12.3067C7.58849 12.3692 7.66223 12.4188 7.74346 12.4526C7.8247 12.4865 7.91184 12.5039 7.99985 12.5039C8.08786 12.5039 8.17499 12.4865 8.25623 12.4526C8.33747 12.4188 8.41121 12.3692 8.47318 12.3067C8.53567 12.2447 8.58526 12.171 8.61911 12.0898C8.65296 12.0085 8.67038 11.9214 8.67038 11.8334C8.67038 11.7454 8.65296 11.6582 8.61911 11.577C8.58526 11.4958 8.53567 11.422 8.47318 11.36L6.27318 9.16671H11.3332C11.51 9.16671 11.6796 9.09647 11.8046 8.97145C11.9296 8.84642 11.9998 8.67685 11.9998 8.50004C11.9998 8.32323 11.9296 8.15366 11.8046 8.02864C11.6796 7.90361 11.51 7.83338 11.3332 7.83338Z" fill="url(#paint0_linear_2841_95832)"></path><defs><linearGradient id="paint0_linear_2841_95832" x1="11.9998" y1="8.56036" x2="4.00317" y2="8.56036" gradientUnits="userSpaceOnUse"><stop stop-color="#802BD6"></stop></linearGradient></defs></svg>			</span>
-						<span class="elementor-button-text">السعر 250 ريال سعودي</span>
-		</span>
-					</a>
-		</div>
-				</div>
-				</div>
-						</div>
-					</div>
-		</div>
-								</div>
-					</div>
-		</section>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-ea58b0e elementor-section-full_width elementor-section-height-min-height elementor-section-height-default" data-id="ea58b0e" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-							<div class="elementor-row">
-					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-34f4637" data-id="34f4637" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-bd02e5b elementor-vertical-align-middle elementor-position-top elementor-widget elementor-widget-image-box" data-id="bd02e5b" data-element_type="widget" data-widget_type="image-box.default">
-				<div class="elementor-widget-container">
-			<div class="elementor-image-box-wrapper"><div class="elementor-image-box-content"><h3 class="elementor-image-box-title"><a href="https://grow.zid.sa/zidpaysoftlaunch?_ga=2.163337084.1174663681.1676456784-790874070.1571427295" target="_blank" title="CEO">تصميم الهوية البصرية</a></h3><p class="elementor-image-box-description">نقوم بتصميم هوية بصرية بشكل كامل لنشاطك التجاري (شعار - بنرات - صور المنتجات - الإعلانات) بأحدث تقنيات التصميم.</p></div></div>		</div>
-				</div>
-				<div class="elementor-element elementor-element-2acab60 elementor-align-right elementor-invisible elementor-widget elementor-widget-button" data-id="2acab60" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="button.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-button-wrapper">
-			<a href="https://grow.zid.sa/zidpay?_ga=2.113168320.592837301.1676977718-790874070.1571427295" class="elementor-button-link elementor-button elementor-size-lg" role="button">
-						<span class="elementor-button-content-wrapper">
-							<span class="elementor-button-icon elementor-align-icon-left">
-				<svg xmlns="http://www.w3.org/2000/svg" width="16" height="17" viewBox="0 0 16 17" fill="none"><path d="M11.3333 7.83338H6.2733L8.4733 5.64004C8.59884 5.51451 8.66937 5.34424 8.66937 5.16671C8.66937 4.98917 8.59884 4.81891 8.4733 4.69338C8.34777 4.56784 8.17751 4.49731 7.99997 4.49731C7.82244 4.49731 7.65217 4.56784 7.52664 4.69338L4.1933 8.02671C4.13261 8.09011 4.08503 8.16487 4.0533 8.24671C3.98663 8.40902 3.98663 8.59107 4.0533 8.75338C4.08503 8.83521 4.13261 8.90997 4.1933 8.97338L7.52664 12.3067C7.58861 12.3692 7.66235 12.4188 7.74359 12.4526C7.82483 12.4865 7.91196 12.5039 7.99997 12.5039C8.08798 12.5039 8.17512 12.4865 8.25636 12.4526C8.3376 12.4188 8.41133 12.3692 8.4733 12.3067C8.53579 12.2447 8.58539 12.171 8.61923 12.0898C8.65308 12.0085 8.6705 11.9214 8.6705 11.8334C8.6705 11.7454 8.65308 11.6582 8.61923 11.577C8.58539 11.4958 8.53579 11.422 8.4733 11.36L6.2733 9.16671H11.3333C11.5101 9.16671 11.6797 9.09647 11.8047 8.97145C11.9297 8.84642 12 8.67685 12 8.50004C12 8.32323 11.9297 8.15366 11.8047 8.02864C11.6797 7.90361 11.5101 7.83338 11.3333 7.83338Z" fill="white"></path></svg>			</span>
-						<span class="elementor-button-text">السعر 300 ريال سعودي</span>
-		</span>
-					</a>
-		</div>
-				</div>
-				</div>
-						</div>
-					</div>
-		</div>
-								</div>
-					</div>
-		</section>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-bea602c elementor-section-full_width elementor-section-height-min-height elementor-section-height-default" data-id="bea602c" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-						<div class="elementor-container elementor-column-gap-default">
-							<div class="elementor-row">
-					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-9502f17" data-id="9502f17" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-3e725d8 elementor-vertical-align-middle elementor-position-top elementor-widget elementor-widget-image-box" data-id="3e725d8" data-element_type="widget" data-widget_type="image-box.default">
-				<div class="elementor-widget-container">
-			<div class="elementor-image-box-wrapper"><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">إستشارة تسويقية</h3><p class="elementor-image-box-description">إذا كنت تواجه صعوبة في الحصول على مبيعات ونجاح حملاتك التسويقية قم بالتواصل معنا الآن للحصول على نصائح من خبراء التسويق.</p></div></div>		</div>
-				</div>
-				<div class="elementor-element elementor-element-251e971 elementor-align-right elementor-invisible elementor-widget elementor-widget-button" data-id="251e971" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="button.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-button-wrapper">
-			<a href="https://mazeed.zid.sa/?_ga=2.226315102.592837301.1676977718-790874070.1571427295" class="elementor-button-link elementor-button elementor-size-lg" role="button">
-						<span class="elementor-button-content-wrapper">
-							<span class="elementor-button-icon elementor-align-icon-left">
-				<svg xmlns="http://www.w3.org/2000/svg" width="16" height="17" viewBox="0 0 16 17" fill="none"><path d="M11.3333 7.83338H6.2733L8.4733 5.64004C8.59884 5.51451 8.66937 5.34424 8.66937 5.16671C8.66937 4.98917 8.59884 4.81891 8.4733 4.69338C8.34777 4.56784 8.17751 4.49731 7.99997 4.49731C7.82244 4.49731 7.65217 4.56784 7.52664 4.69338L4.1933 8.02671C4.13261 8.09011 4.08503 8.16487 4.0533 8.24671C3.98663 8.40902 3.98663 8.59107 4.0533 8.75338C4.08503 8.83521 4.13261 8.90997 4.1933 8.97338L7.52664 12.3067C7.58861 12.3692 7.66235 12.4188 7.74359 12.4526C7.82483 12.4865 7.91196 12.5039 7.99997 12.5039C8.08798 12.5039 8.17512 12.4865 8.25636 12.4526C8.3376 12.4188 8.41133 12.3692 8.4733 12.3067C8.53579 12.2447 8.58539 12.171 8.61923 12.0898C8.65308 12.0085 8.6705 11.9214 8.6705 11.8334C8.6705 11.7454 8.65308 11.6582 8.61923 11.577C8.58539 11.4958 8.53579 11.422 8.4733 11.36L6.2733 9.16671H11.3333C11.5101 9.16671 11.6797 9.09647 11.8047 8.97145C11.9297 8.84642 12 8.67685 12 8.50004C12 8.32323 11.9297 8.15366 11.8047 8.02864C11.6797 7.90361 11.5101 7.83338 11.3333 7.83338Z" fill="white"></path></svg>			</span>
-						<span class="elementor-button-text">السعر 100 ريال سعودي</span>
-		</span>
-					</a>
-		</div>
-				</div>
-				</div>
-						</div>
-					</div>
-		</div>
-								</div>
-					</div>
-		</section>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-1e2b7f4 elementor-section-full_width elementor-section-height-min-height elementor-section-height-default" data-id="1e2b7f4" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-						<div class="elementor-container elementor-column-gap-default">
-							<div class="elementor-row">
-					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-616648d" data-id="616648d" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-5f78e64 elementor-vertical-align-middle elementor-position-top elementor-widget elementor-widget-image-box" data-id="5f78e64" data-element_type="widget" data-widget_type="image-box.default">
-				<div class="elementor-widget-container">
-			<div class="elementor-image-box-wrapper"><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">تصميم صور المنتجات</h3><p class="elementor-image-box-description">أجعل متجرك يبدو أجمل عن طريق تصميم صور جذابة وجميلة للمنتجات عن طريق خبراء التصميم للحصول على صور منتجات متناسقة ومحفزة على الشراء.</p></div></div>		</div>
-				</div>
-				<div class="elementor-element elementor-element-4e721b4 elementor-align-right elementor-invisible elementor-widget elementor-widget-button" data-id="4e721b4" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="button.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-button-wrapper">
-			<a href="#" class="elementor-button-link elementor-button elementor-size-lg" role="button">
-						<span class="elementor-button-content-wrapper">
-							<span class="elementor-button-icon elementor-align-icon-left">
-				<svg xmlns="http://www.w3.org/2000/svg" width="16" height="17" viewBox="0 0 16 17" fill="none"><path d="M11.3333 7.83338H6.2733L8.4733 5.64004C8.59884 5.51451 8.66937 5.34424 8.66937 5.16671C8.66937 4.98917 8.59884 4.81891 8.4733 4.69338C8.34777 4.56784 8.17751 4.49731 7.99997 4.49731C7.82244 4.49731 7.65217 4.56784 7.52664 4.69338L4.1933 8.02671C4.13261 8.09011 4.08503 8.16487 4.0533 8.24671C3.98663 8.40902 3.98663 8.59107 4.0533 8.75338C4.08503 8.83521 4.13261 8.90997 4.1933 8.97338L7.52664 12.3067C7.58861 12.3692 7.66235 12.4188 7.74359 12.4526C7.82483 12.4865 7.91196 12.5039 7.99997 12.5039C8.08798 12.5039 8.17512 12.4865 8.25636 12.4526C8.3376 12.4188 8.41133 12.3692 8.4733 12.3067C8.53579 12.2447 8.58539 12.171 8.61923 12.0898C8.65308 12.0085 8.6705 11.9214 8.6705 11.8334C8.6705 11.7454 8.65308 11.6582 8.61923 11.577C8.58539 11.4958 8.53579 11.422 8.4733 11.36L6.2733 9.16671H11.3333C11.5101 9.16671 11.6797 9.09647 11.8047 8.97145C11.9297 8.84642 12 8.67685 12 8.50004C12 8.32323 11.9297 8.15366 11.8047 8.02864C11.6797 7.90361 11.5101 7.83338 11.3333 7.83338Z" fill="#454545"></path></svg>			</span>
-						<span class="elementor-button-text">السعر 200 ريال سعودي</span>
-		</span>
-					</a>
-		</div>
-				</div>
-				</div>
-						</div>
-					</div>
-		</div>
-								</div>
-					</div>
-		</section>
-						</div>
-					</div>
-		</div>
-								</div>
-					</div>
-		</section>
-						</div>
-					</div>
-		</div>
-								</div>
-					</div>
-		</section>
+
 				<section class="elementor-section elementor-top-section elementor-element elementor-element-436ea37 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="436ea37" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
 							<div class="elementor-row">
