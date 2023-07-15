@@ -8,13 +8,13 @@
 <link rel="alternate" href="https://seofollow.company/" hreflang="ar" />
 
 <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-9HJ10WS3RK"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-S9FHGVXFBZ"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-9HJ10WS3RK');
+  gtag('config', 'G-S9FHGVXFBZ');
 </script>
 	<!-- This site is optimized with the Yoast SEO plugin v20.4 - https://yoast.com/wordpress/plugins/seo/ -->
 	<title>شركة سيو فولو - خدمة سيو</title>
